@@ -1,9 +1,8 @@
-# Disclaimer
+# To The Editors
 
 This is a custom configuration for creating an Ethereum full node based on the Armbian build tools. Please visit https://www.armbian.com and https://github.com/igorpecovnik/lib for further info regarding ARMBIAN.
 
-Currently (as of September 2018) these scripts are developed to build an Armbian image for the FriendlyElec NanoPC-T4 [1] due to the high hardware specs needed to sync the Ethereum Blockchain. A NVMe M.2 SSD drive is needed as well.
-
+These scripts are developed to build an Armbian image for the FriendlyElec NanoPC-T4 [1] due to the high hardware specs needed to sync the Ethereum Blockchain. A NVMe M.2 SSD drive is needed as well.
 For more information regarding Ethereum please visit:
 
 - https://ethereum.org/
